@@ -1,0 +1,46 @@
+*{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+h1{font-family: Georgia;
+font-size: 55px;
+color: #F1C40F ;
+	letter-spacing: 5px;
+}
+#Cap1{ text-indent: 5px;
+	font-size: 30px;
+	font-family: Serif;
+	background-color: snow;
+		color: midnightblue;
+		background-size: auto;
+}
+#cap2{font-size: 35px;
+	text-indent: 15px;
+}
+#trong{
+	text-indent: 20px;
+}
+#menutrai{
+	background-color: blanchedalmond;
+	height: 1100px;
+	border-bottom-left-radius: 15px;
+	border-top-left-radius: 15px;
+}
+#menuphai{
+	height: 1100px;
+	background-color: #F1C40F;
+	padding-left:6%;
+	padding-right: 6%;
+	padding-bottom: 6%;
+	border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+}
+#anhthe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+	border-radius:15px;}
+#thongtincoban{
+	text-space: 10px
+}
